@@ -40,7 +40,7 @@ To install PegasusAC, please join our [Discord Server](https://discord.gg/d3kKey
 
 
 # Requirments
-To install Pegasus, you'll need MySQL and the screenshot-basic resource. After that, launch Pegasus, and it's good to go!
+To install Pegasus, you'll need the screenshot-basic resource. After that, launch Pegasus, and it's good to go!
 Please keep in mind that Pegasus is a powerful anticheat with many detection features. Spending enough time configuring it properly is crucial to avoid false bans. 30 minutes isn't too long to secure your server effectively.
 <p align="center">
    <img src="https://github.com/NiaouBreGatoula/PegasusAC/assets/67291791/aea36d71-90f3-489e-9ea8-1989f3e0f19f" alt="GIF 3" width="620">
