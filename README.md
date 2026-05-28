@@ -110,28 +110,52 @@ You can also reach us at [pegasusac.net/support](https://pegasusac.net/support) 
 
 <div align="center">
 
-<br/><br/>
 <video src="https://d1a3u2vc0ko8yi.cloudfront.net/videos/demo5.mp4" width="680" muted loop controls></video>
-<img width="1183" height="968" alt="image" src="https://github.com/user-attachments/assets/f09c2d08-20dc-432c-a56c-03d4314d590b" />
-<img width="1228" height="988" alt="image" src="https://github.com/user-attachments/assets/501521b1-a688-4eec-ba6f-0502a1fc9a0b" />
-<img width="1192" height="966" alt="image" src="https://github.com/user-attachments/assets/19df8e15-143a-4470-b9ed-85fb5df5b8ed" />
-<img width="1172" height="985" alt="image" src="https://github.com/user-attachments/assets/2df9bb90-372b-41ff-81c6-4712c9c5e12d" />
-<img width="1204" height="994" alt="image" src="https://github.com/user-attachments/assets/6af2619a-9afd-407d-97e9-784daa1a8cff" />
-<img width="2492" height="1260" alt="image" src="https://github.com/user-attachments/assets/c70877a8-24c9-4f46-b7ce-337f97cb99a0" />
-<img width="2475" height="1280" alt="image" src="https://github.com/user-attachments/assets/190161ca-cc92-4c5d-ac58-fbbf13533019" />
-<img width="2506" height="1275" alt="image" src="https://github.com/user-attachments/assets/014e0028-54a0-45c2-9086-47ebd5d8ad32" />
-<img width="2505" height="1269" alt="image" src="https://github.com/user-attachments/assets/ee3bf535-bcfa-4553-80f6-493812b9c265" />
-<img width="2496" height="1267" alt="image" src="https://github.com/user-attachments/assets/7ec94c49-24ea-4853-bd0c-a776a5a5756b" />
 
+<br/><br/>
 
-<a href="https://d1a3u2vc0ko8yi.cloudfront.net/videos/demo5.mp4">
-  <img src="https://img.shields.io/badge/▶%20Watch%20Demo-Video-red?style=for-the-badge&logo=play" alt="Watch Demo Video" />
-</a>
+<img src="https://github.com/user-attachments/assets/c70877a8-24c9-4f46-b7ce-337f97cb99a0" width="680" alt="PegasusAC Panel" />
 
+<br/><br/>
 
+<img src="https://github.com/user-attachments/assets/190161ca-cc92-4c5d-ac58-fbbf13533019" width="680" alt="PegasusAC Panel" />
+
+<br/><br/>
+
+<img src="https://github.com/user-attachments/assets/014e0028-54a0-45c2-9086-47ebd5d8ad32" width="680" alt="PegasusAC Panel" />
+
+<br/><br/>
+
+<img src="https://github.com/user-attachments/assets/ee3bf535-bcfa-4553-80f6-493812b9c265" width="680" alt="PegasusAC Panel" />
+
+<br/><br/>
+
+<img src="https://github.com/user-attachments/assets/7ec94c49-24ea-4853-bd0c-a776a5a5756b" width="680" alt="PegasusAC Panel" />
+
+<br/><br/>
+
+<img src="https://github.com/user-attachments/assets/f09c2d08-20dc-432c-a56c-03d4314d590b" width="680" alt="PegasusAC Panel" />
+
+<br/><br/>
+
+<img src="https://github.com/user-attachments/assets/501521b1-a688-4eec-ba6f-0502a1fc9a0b" width="680" alt="PegasusAC Panel" />
+
+<br/><br/>
+
+<img src="https://github.com/user-attachments/assets/19df8e15-143a-4470-b9ed-85fb5df5b8ed" width="680" alt="PegasusAC Panel" />
+
+<br/><br/>
+
+<img src="https://github.com/user-attachments/assets/2df9bb90-372b-41ff-81c6-4712c9c5e12d" width="680" alt="PegasusAC Panel" />
+
+<br/><br/>
+
+<img src="https://github.com/user-attachments/assets/6af2619a-9afd-407d-97e9-784daa1a8cff" width="680" alt="PegasusAC Panel" />
+
+<br/><br/>
 
 <a href="https://www.youtube.com/channel/UCb8_VgKaeNMn7ww1nihNkdA">
-  <img src="https://img.youtube.com/vi/5cY1V7LxT5Q/maxresdefault.jpg" alt="PegasusAC Showcase" width="680">
+  <img src="https://img.youtube.com/vi/5cY1V7LxT5Q/maxresdefault.jpg" alt="PegasusAC YouTube" width="680">
 </a>
 
 </div>
