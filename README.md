@@ -117,9 +117,17 @@ You can also reach us at [pegasusac.net/support](https://pegasusac.net/support) 
 <img width="1192" height="966" alt="image" src="https://github.com/user-attachments/assets/19df8e15-143a-4470-b9ed-85fb5df5b8ed" />
 <img width="1172" height="985" alt="image" src="https://github.com/user-attachments/assets/2df9bb90-372b-41ff-81c6-4712c9c5e12d" />
 <img width="1204" height="994" alt="image" src="https://github.com/user-attachments/assets/6af2619a-9afd-407d-97e9-784daa1a8cff" />
+<img width="2492" height="1260" alt="image" src="https://github.com/user-attachments/assets/c70877a8-24c9-4f46-b7ce-337f97cb99a0" />
+<img width="2475" height="1280" alt="image" src="https://github.com/user-attachments/assets/190161ca-cc92-4c5d-ac58-fbbf13533019" />
+<img width="2506" height="1275" alt="image" src="https://github.com/user-attachments/assets/014e0028-54a0-45c2-9086-47ebd5d8ad32" />
+<img width="2505" height="1269" alt="image" src="https://github.com/user-attachments/assets/ee3bf535-bcfa-4553-80f6-493812b9c265" />
+<img width="2496" height="1267" alt="image" src="https://github.com/user-attachments/assets/7ec94c49-24ea-4853-bd0c-a776a5a5756b" />
 
-<video src="https://d1a3u2vc0ko8yi.cloudfront.net/videos/demo5.mp4" width="680" controls autoplay muted loop>
-</video>
+
+<a href="https://d1a3u2vc0ko8yi.cloudfront.net/videos/demo5.mp4">
+  <img src="https://img.shields.io/badge/▶%20Watch%20Demo-Video-red?style=for-the-badge&logo=play" alt="Watch Demo Video" />
+</a>
+
 
 
 <a href="https://www.youtube.com/channel/UCb8_VgKaeNMn7ww1nihNkdA">
