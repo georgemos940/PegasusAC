@@ -1,99 +1,184 @@
-#               **PegasusAC - The Best FiveM Anticheat - 2026**
+<div align="center">
 
-**[Join Discord](https://discord.gg/d3kKeySCCB)**
+<img src="https://pegasusac.net/logo/pegasus.png" width="100" alt="PegasusAC Logo" />
 
-**[Visit our Website](https://pegasusac.net/)**
+# PegasusAC
 
-**PegasusAC is the Best FiveM Anticheat stands out as the premier and cost-effective FiveM anticheat solution. Safeguard your server without breaking the bank on FiveM hosting. Act now to swiftly eliminate cheaters!**
+### The Most Advanced FiveM Anti-Cheat — 2026
+
+<br/>
+
+[![Discord](https://img.shields.io/discord/1113814297999581245?color=5865F2&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/pegasusac)
+[![Website](https://img.shields.io/badge/Website-pegasusac.net-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pegasusac.net)
+[![Panel](https://img.shields.io/badge/Panel-panel.pegasusac.net-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://panel.pegasusac.net)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCb8_VgKaeNMn7ww1nihNkdA)
+[![TikTok](https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@pegasus.anticheat)
+
+<br/>
+
+[![OneSync](https://img.shields.io/badge/OneSync-Required-3b82f6?style=flat-square&logo=fivem&logoColor=white)](https://docs.fivem.net/docs/scripting-reference/onesync/)
+[![Artifacts](https://img.shields.io/badge/Latest%20Artifacts-Required-3b82f6?style=flat-square&logo=fivem&logoColor=white)](https://runtime.fivem.net/artifacts/fivem/)
+[![CFX Asset](https://img.shields.io/badge/CFX%20Asset%20System-Permanent%20License-22c55e?style=flat-square)](https://forum.cfx.re/)
+[![Framework](https://img.shields.io/badge/Framework-ESX%20%7C%20QBCore%20%7C%20VRP%20%7C%20Custom-f97316?style=flat-square)](https://pegasusac.net/docs)
+
+<br/>
+
+![PegasusAC Banner](https://pegasusac.net/images/wallpaper_pegasus.png)
 
 </div>
 
+<br/>
 
+## What is PegasusAC?
 
-[![OneSync Requirement](https://img.shields.io/badge/OneSync-Required-blue?style=for-the-badge&logo=fivem&logoColor=white)](https://docs.fivem.net/docs/scripting-reference/onesync/)
-[![Latest Artifacts Requirement](https://img.shields.io/badge/Latest%20Artifacts-Required-blue?style=for-the-badge&logo=fivem&logoColor=white)](https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/6683-9729577be50de537692c3a19e86365a5e0f99a54/server.7z)
-[![Join our Discord](https://img.shields.io/discord/1113814297999581245?color=7289DA&label=Join%20our%20Discord&logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/nXjDw9g3WC)
-[![Subscribe on YouTube](https://img.shields.io/badge/Subscribe-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCb8_VgKaeNMn7ww1nihNkdA)
-[![Follow on TikTok](https://img.shields.io/badge/Follow-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@pegasus.anticheat)
-![wallpaper_discord_01-1](https://github.com/NiaouBreGatoula/PegasusAC/assets/67291791/e6b26758-9866-4088-af38-84c55d3f776a)
+PegasusAC started as a personal project to solve a real problem — cheaters on Greek FiveM servers were using spoofers to bypass bans and come back within minutes. After building a server-side script to catch them, the results were good enough that other server owners started asking for it too. That's how this turned into what it is today.
 
+The core idea is simple: when someone connects to your server you get their SteamHex, IP, license, and hardware tokens. A spoofer tries to hide or change those values. We built detection around exactly that, and kept adding to it ever since — event protection, AI screenshot analysis, real-time monitoring, and a full management panel.
 
+PegasusAC is now running on 500+ servers worldwide. It's not magic, but it works.
 
+<br/>
 
-# About Us
-The inception of Pegasus Anticheat originated from a simple yet compelling idea: crafting a script that could discern players attempting to access our server after utilizing a spoofer. Based in Greece, I was actively involved in both playing on and developing for Greek-listed FiveM servers. Unfortunately, it was evident that cheaters in this community posed a significant challenge. However, this challenge became an opportunity for growth, as I learned from some of the best in the business 😏
+## Features
 
-While assisting friends in safeguarding their servers from cheaters, I encountered instances where certain individuals openly mocked server administrators, boasting that they could easily evade bans and swiftly return. It was during these moments that I contemplated potential solutions, leading to the inception of the Pegasus idea.
+**Detection**
 
-My journey began with a 1000-line server-side script, meticulously analyzing various player attributes upon connecting to the server. This script, in the end, possessed the remarkable capability to distinguish between legitimate players and hackers who had previously evaded bans on our server.
+| Feature | Description |
+|---|---|
+| AI Screenshot Detection | Real-time screen analysis using AI. Catches cheaters that would otherwise slip through server-side checks |
+| Spoofer Detection | Identifies players trying to reconnect after a ban using spoofed hardware identifiers |
+| Event Protection | Blocks malicious FiveM network events and server exploits |
+| Identifier Analysis | Inspects SteamHex, IP, license, and hardware tokens on every connection |
+| Continuous Updates | We push updates whenever new cheats or bypasses start spreading |
 
-When a player connects to your server, crucial information such as their SteamHex, IP address, and license becomes available for scrutiny. Armed with this data, I was able to devise strategies to discern what spoofers attempted to accomplish. Spoiler alert: it's relatively straightforward! Spoofers aim to conceal themselves from your server to circumvent your banning techniques. So, what if you could develop a script to detect such evasive behavior? The answer was clear: yes, it was entirely feasible.
+**Management Panel** — [panel.pegasusac.net](https://panel.pegasusac.net)
 
+| Module | What it does |
+|---|---|
+| Live Map | See all players on the map in real time, with health, armor, ping, and coordinates |
+| Player Management | Full player list with history and quick actions |
+| Ban System | Create, manage, and review bans. Includes an unban request workflow |
+| Detection Analytics | See every anti-cheat trigger visualized, per player and per detection type |
+| Activity Logs | Full history of everything that happens on your server and in the panel |
+| Staff Logs | Every admin action is logged so you always know who did what |
+| Roles and Permissions | Set up role-based access so your staff only sees what they need to |
+| Sub-users | Add team members to your server without giving them full access |
+| Server Config | Edit your anti-cheat configuration directly from the panel, no file access needed |
+| AI Live Stream | Open a live stream of any player's screen directly from the panel |
+| Screenshot Capture | Take a screenshot of any player on demand |
 
-<p align="center">
-  <img src="https://github.com/NiaouBreGatoula/PegasusAC/assets/67291791/db587bd4-b1a1-4d82-9a87-297a3ce7416a" alt="GIF 2" width="620">
-</p>
+**General**
 
+- Works out of the box with ESX, QBCore, VRP, and custom frameworks. No extra setup needed.
+- Designed to run with minimal performance impact. Your server won't notice it's there.
+- Every detection threshold is configurable so you can tune it to your server's specific needs.
+- Fully CFX compliant. We don't do anything that violates platform rules or player privacy.
+- Your license is permanent through the CFX asset system. Not a subscription, not tied to our uptime.
 
-# Installation
-To install PegasusAC, please join our [Discord Server](https://discord.gg/d3kKeySCCB) and check 🛒│claim-pegasus channel.
+<br/>
 
+## How to get it
 
-# Requirments
-To install Pegasus, you'll need the screenshot-basic resource. After that, launch Pegasus, and it's good to go!
-Please keep in mind that Pegasus is a powerful anticheat with many detection features. Spending enough time configuring it properly is crucial to avoid false bans. 30 minutes isn't too long to secure your server effectively.
-<p align="center">
-   <img src="https://github.com/NiaouBreGatoula/PegasusAC/assets/67291791/aea36d71-90f3-489e-9ea8-1989f3e0f19f" alt="GIF 3" width="620">
-</p>
+1. Go to [pegasusac.net/products](https://pegasusac.net/products) and grab a license
+2. Join our [Discord](https://discord.gg/pegasusac) and head to the **#claim-pegasus** channel to claim your resource
+3. Drop the `PegasusAC` folder into your server's resources directory
+4. Read through the docs before you start — it takes about 30 minutes and it matters. Misconfigured settings are the main reason people see false positives
+5. Add `ensure PegasusAC` to your `server.cfg` and you're good to go
 
-# Documentation
-After installing the script and connecting to the Pegasus Server in your cfx console, it's time to proceed and read the documentation I've prepared for you in the Pegasus GitBook that you will find in my discord channel #pegasus-gitbook
-<p align="center">
-  <img src="https://github.com/NiaouBreGatoula/PegasusAC/assets/67291791/72f6632f-782f-4152-aae1-5dbd06df4413" alt="GIF 1" width="620">
-</p>
+<br/>
 
-# Q&A (Questions and Answers)
-Q: Does Pegasus Completely Stop Spoofing?  
-> A: No, Pegasus can't completely stop spoofing, but it makes it much harder for cheaters to avoid bans.
+## Requirements
 
-Q: Do New Players Sometimes Get Incorrectly Banned for Spoofing?
-> A: Yes and no. Whether new players get falsely banned depends on how you set up your server. You can reduce false bans by adjusting specific protection settings. In my extensive testing, out of 400 spoofing attempts, only five players got wrongly banned. This is quite rare if your server's settings match its needs. However you can always whitelist and allow these 5 player's eventually to connect to your server.
-Q: Does PegasusAC receive updates?
-> A: Yes, we constantly update our anticheat to actively identify and we try to block new cheats before they become popular among cheaters.
-Q: Is Pegasus Free?
-> A: No, it's an incredibly affordable offer for a lifetime access, available for that price only during the beta release days.
-Q: Why can't an anticheat be free?
-> A: Generally, I don't aim to profit from FiveM development. However, I understand that in the process of developing an anticheat and offering it for free to the community, it can pose a significant vulnerability for many servers. Servers that seek security might find that offering something for free can be easily exploited by anyone who desires it. This is why many anticheat solutions come with a price.
-Q: Is it Open Source?
-> A:Unfortunately, we cannot make our product open source at this time due to the issue of people reselling it without authorization. We believe that maintaining control over who can access and claim our product is essential to prevent misuse. However we are seeking your trust, which is why we utilize the Tebex escrow system, ensuring the safety of our files.
+| Requirement | Details |
+|---|---|
+| OneSync | Required, must be enabled |
+| FiveM Artifacts | Keep your server artifacts up to date |
+| screenshot-basic | Needed for AI screenshot detection |
 
+Take the time to configure it properly before you open your server. A default config is included but every server is different, and 30 minutes of reading the docs will save you a lot of headaches.
 
+<br/>
 
-# PegasusMenu
+## Documentation
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=BA1mmUvFXf4">
-    <img src="https://img.youtube.com/vi/5cY1V7LxT5Q/0.jpg" alt="Video 1">
-  </a>
-</p>
+Everything you need is at [pegasusac.net/docs](https://pegasusac.net/docs) — installation, configuration, framework setup, and troubleshooting.
 
-# Showcase
+You can also reach us at [pegasusac.net/support](https://pegasusac.net/support) or jump into our [Discord](https://discord.gg/pegasusac) for direct help.
 
-<p align="center">
-  <img src="https://github.com/NiaouBreGatoula/PegasusAC/assets/67291791/0f5e4168-dda0-497e-9f3d-dbfbeae65aa2" alt="GIF 4" width="620">
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=5cY1V7LxT5Q">
-    <img src="https://img.youtube.com/vi/5cY1V7LxT5Q/0.jpg" alt="Video 1">
-  </a>
-</p>
+## Showcase
 
-<p align="center">
-  <img src="https://i.imgur.com/uStMxKW.png" width="350" alt="Screenshot 1">
-  <img src="https://i.imgur.com/PI84vxu.png" width="350" alt="Screenshot 2">
-</p>
+<div align="center">
 
+<br/><br/>
 
+<a href="https://www.youtube.com/channel/UCb8_VgKaeNMn7ww1nihNkdA">
+  <img src="https://img.youtube.com/vi/5cY1V7LxT5Q/maxresdefault.jpg" alt="PegasusAC Showcase" width="680">
+</a>
 
+</div>
 
+<br/>
+
+## Questions
+
+<details>
+<summary><b>How does the detection actually work?</b></summary>
+<br/>
+It runs on both the client and server side. When someone connects we check their identifiers, and throughout the session we monitor for suspicious events, unauthorized modifications, and known cheat behavior. The AI screenshot detection adds an extra layer by actually looking at what the player sees on screen.
+</details>
+
+<details>
+<summary><b>Will it lag my server?</b></summary>
+<br/>
+No. Performance was a priority from the start. The detection runs in the background and you won't see a noticeable impact on server resources.
+</details>
+
+<details>
+<summary><b>Does it work with ESX / QBCore / VRP?</b></summary>
+<br/>
+Yes, all of them. PegasusAC doesn't depend on any specific framework so it works with whatever you're running, custom setups included.
+</details>
+
+<details>
+<summary><b>Can it fully stop spoofing?</b></summary>
+<br/>
+No, and anyone who tells you their anti-cheat fully stops spoofing is lying. What we can do is make it significantly harder and catch most attempts. Out of 400 test cases, 5 players were incorrectly flagged — those can all be whitelisted through the panel.
+</details>
+
+<details>
+<summary><b>How often do you push updates?</b></summary>
+<br/>
+Regularly. Whenever a new cheat or bypass starts circulating we work on catching it. You can follow what changed at <a href="https://pegasusac.net/changelog">pegasusac.net/changelog</a>.
+</details>
+
+<details>
+<summary><b>Why the CFX asset system and not a custom license server?</b></summary>
+<br/>
+Because your license should belong to you permanently. With the CFX asset system, even if we stopped operating tomorrow your resource would still work. You're not renting access, you own it.
+</details>
+
+<details>
+<summary><b>Why does it cost money?</b></summary>
+<br/>
+A free anti-cheat is one that every cheater can also download and reverse engineer. Keeping it paid means the people who have it are server owners, not the people we're trying to catch.
+</details>
+
+<details>
+<summary><b>Is it open source?</b></summary>
+<br/>
+No. Making it open source would let anyone find the detection methods and build bypasses. We use the Tebex escrow system so you don't have to take our word for the file safety — it's independently verified.
+</details>
+
+<br/>
+
+## Links
+
+[Website](https://pegasusac.net) &nbsp;&nbsp; [Panel](https://panel.pegasusac.net) &nbsp;&nbsp; [Documentation](https://pegasusac.net/docs) &nbsp;&nbsp; [Purchase](https://pegasusac.net/products) &nbsp;&nbsp; [Discord](https://discord.gg/pegasusac) &nbsp;&nbsp; [YouTube](https://www.youtube.com/channel/UCb8_VgKaeNMn7ww1nihNkdA) &nbsp;&nbsp; [TikTok](https://www.tiktok.com/@pegasus.anticheat) &nbsp;&nbsp; [Changelog](https://pegasusac.net/changelog)
+
+<br/>
+
+<div align="center">
+<sub>Built in Greece · <a href="https://pegasusac.net/terms">Terms</a> · <a href="https://pegasusac.net/privacy">Privacy</a></sub>
+</div>
