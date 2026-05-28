@@ -93,7 +93,6 @@ PegasusAC is now running on 500+ servers worldwide. It's not magic, but it works
 |---|---|
 | OneSync | Required, must be enabled |
 | FiveM Artifacts | Keep your server artifacts up to date |
-| screenshot-basic | Needed for AI screenshot detection |
 
 Take the time to configure it properly before you open your server. A default config is included but every server is different, and 30 minutes of reading the docs will save you a lot of headaches.
 
