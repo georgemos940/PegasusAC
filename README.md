@@ -111,6 +111,16 @@ You can also reach us at [pegasusac.net/support](https://pegasusac.net/support) 
 <div align="center">
 
 <br/><br/>
+<video src="https://d1a3u2vc0ko8yi.cloudfront.net/videos/demo5.mp4" width="680" muted loop controls></video>
+<img width="1183" height="968" alt="image" src="https://github.com/user-attachments/assets/f09c2d08-20dc-432c-a56c-03d4314d590b" />
+<img width="1228" height="988" alt="image" src="https://github.com/user-attachments/assets/501521b1-a688-4eec-ba6f-0502a1fc9a0b" />
+<img width="1192" height="966" alt="image" src="https://github.com/user-attachments/assets/19df8e15-143a-4470-b9ed-85fb5df5b8ed" />
+<img width="1172" height="985" alt="image" src="https://github.com/user-attachments/assets/2df9bb90-372b-41ff-81c6-4712c9c5e12d" />
+<img width="1204" height="994" alt="image" src="https://github.com/user-attachments/assets/6af2619a-9afd-407d-97e9-784daa1a8cff" />
+
+<video src="https://d1a3u2vc0ko8yi.cloudfront.net/videos/demo5.mp4" width="680" controls autoplay muted loop>
+</video>
+
 
 <a href="https://www.youtube.com/channel/UCb8_VgKaeNMn7ww1nihNkdA">
   <img src="https://img.youtube.com/vi/5cY1V7LxT5Q/maxresdefault.jpg" alt="PegasusAC Showcase" width="680">
