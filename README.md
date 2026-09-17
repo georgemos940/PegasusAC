@@ -2,7 +2,7 @@
 
 <img src="https://pegasusac.net/logo/pegasus.png" width="100" alt="PegasusAC FiveM Anticheat Logo" />
 
-# PegasusAC — FiveM Anticheat
+# [PegasusAC](https://pegasusac.net) — FiveM Anticheat
 
 ### The Best FiveM Anti-Cheat 2026 — AI Detection, Web Admin Panel & Permanent CFX License
 
