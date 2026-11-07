@@ -37,7 +37,7 @@ It started as a personal project to solve a real problem — cheaters on Greek F
 
 The core idea is simple: when someone connects to your server you get their SteamHex, IP, license, and hardware tokens. A spoofer tries to hide or change those values. We built **FiveM spoofer detection** around exactly that, and kept adding to it ever since — event protection, AI screenshot analysis, real-time monitoring, and a full management panel.
 
-PegasusAC is now running on **500+ FiveM servers worldwide**. It's not magic, but it works.
+PegasusAC now runs on **thousands of FiveM servers worldwide**. It's not magic, but it works.
 
 ➡️ **Choosing an anticheat?** Read [the best FiveM anticheat in 2026](https://pegasusac.net/best-fivem-anticheat) or see [how PegasusAC compares](https://pegasusac.net/compare) to FiveGuard, WaveShield, Electron and RavenAC.
 
@@ -182,7 +182,7 @@ You can also reach us at [pegasusac.net/support](https://pegasusac.net/support) 
 <details>
 <summary><b>Is PegasusAC the best FiveM anticheat?</b></summary>
 <br/>
-We think the feature set speaks for itself: AI screenshot detection, event protection, a false-positive shield, and a full web admin panel with live map and voice monitoring — at a price most alternatives multiply. 500+ servers run it in production. See <a href="https://pegasusac.net/best-fivem-anticheat">the best FiveM anticheat in 2026</a> and the honest breakdown at <a href="https://pegasusac.net/compare">pegasusac.net/compare</a>.
+We think the feature set speaks for itself: AI screenshot detection, event protection, a false-positive shield, and a full web admin panel with live map and voice monitoring — at a price most alternatives multiply. Thousands of servers run it in production. See <a href="https://pegasusac.net/best-fivem-anticheat">the best FiveM anticheat in 2026</a> and the honest breakdown at <a href="https://pegasusac.net/compare">pegasusac.net/compare</a>.
 </details>
 
 <details>
