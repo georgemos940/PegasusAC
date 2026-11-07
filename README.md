@@ -4,7 +4,7 @@
 
 # [PegasusAC](https://pegasusac.net) — FiveM Anticheat
 
-### The Best FiveM Anti-Cheat 2026 — AI Detection, Web Admin Panel & Permanent CFX License
+### [The Best FiveM Anti-Cheat 2026](https://pegasusac.net/best-fivem-anticheat) — AI Detection, Web Admin Panel & Permanent CFX License
 
 <br/>
 
@@ -18,8 +18,8 @@
 
 [![OneSync](https://img.shields.io/badge/OneSync-Required-3b82f6?style=flat-square&logo=fivem&logoColor=white)](https://docs.fivem.net/docs/scripting-reference/onesync/)
 [![Artifacts](https://img.shields.io/badge/Latest%20Artifacts-Required-3b82f6?style=flat-square&logo=fivem&logoColor=white)](https://pegasusac.net/free-tools/artifacts)
-[![CFX Asset](https://img.shields.io/badge/CFX%20Asset%20System-Permanent%20License-22c55e?style=flat-square)](https://forum.cfx.re/)
-[![Framework](https://img.shields.io/badge/Framework-ESX%20%7C%20QBCore%20%7C%20VRP%20%7C%20Custom-f97316?style=flat-square)](https://pegasusac.net/docs)
+[![CFX Asset](https://img.shields.io/badge/CFX%20Asset%20System-Permanent%20License-22c55e?style=flat-square)](https://pegasusac.net/fivem-anticheat-cfx-compliance)
+[![Framework](https://img.shields.io/badge/Framework-ESX%20%7C%20QBCore%20%7C%20QBox%20%7C%20VRP%20%7C%20Custom-f97316?style=flat-square)](https://pegasusac.net/faq)
 
 <br/>
 
@@ -31,7 +31,7 @@
 
 ## What is PegasusAC?
 
-**PegasusAC is a complete FiveM anti-cheat** for GTA V roleplay and freeroam servers. It stops mod menus, Lua executors, aimbots, god mode, noclip and spoofed identifiers with layered server-side detections, AI screenshot analysis and event protection — and ships with a full **web admin panel** with live map, ban management and voice monitoring.
+**PegasusAC is a complete [FiveM anti-cheat](https://pegasusac.net)** for GTA V roleplay and freeroam servers. It stops mod menus, Lua executors, aimbots, god mode, noclip and spoofed identifiers with layered server-side detections, AI screenshot analysis and event protection — and ships with a full **web admin panel** with live map, ban management and voice monitoring.
 
 It started as a personal project to solve a real problem — cheaters on Greek FiveM servers were using spoofers to bypass bans and come back within minutes. After building a server-side script to catch them, the results were good enough that other server owners started asking for it too. That's how this turned into what it is today.
 
@@ -39,7 +39,7 @@ The core idea is simple: when someone connects to your server you get their Stea
 
 PegasusAC is now running on **500+ FiveM servers worldwide**. It's not magic, but it works.
 
-➡️ **See how it compares to other FiveM anticheats:** [pegasusac.net/compare](https://pegasusac.net/compare)
+➡️ **Choosing an anticheat?** Read [the best FiveM anticheat in 2026](https://pegasusac.net/best-fivem-anticheat) or see [how PegasusAC compares](https://pegasusac.net/compare) to FiveGuard, WaveShield, Electron and RavenAC.
 
 <br/>
 
@@ -50,10 +50,14 @@ PegasusAC is now running on **500+ FiveM servers worldwide**. It's not magic, bu
 | [AI Screenshot Detection](https://pegasusac.net/features/screenshot-detection) | Real-time screen analysis using AI. Catches mod menus and overlays that slip through server-side checks |
 | Spoofer Detection | Identifies players trying to reconnect after a ban using spoofed hardware identifiers (FiveM HWID ban evasion) |
 | [Event Protection](https://pegasusac.net/features/detections) | Signs and validates server events — blocks malicious FiveM network events, Lua executor triggers and server exploits |
-| Aimbot, Godmode & NoClip Detection | Layered movement and combat checks: aimbot, god mode, noclip, super speed, teleport, weapon spawning |
+| [Aimbot, Godmode & NoClip Detection](https://pegasusac.net/features/detections) | Layered movement and combat checks: aimbot, god mode, noclip, super speed, teleport, weapon spawning |
 | Identifier Analysis | Inspects SteamHex, IP, license, and hardware tokens on every connection |
-| False-Positive Shield | Trusted-native framework (Themis) recognizes legit scripts — garages, cutscenes, admin tools — so real players don't get banned |
-| Continuous Updates | We push updates whenever new FiveM cheats or bypasses start spreading |
+| [False-Positive Shield](https://pegasusac.net/features/themis) | Trusted-native framework (Themis) recognizes legit scripts — garages, cutscenes, admin tools — so real players don't get banned |
+| [Continuous Updates](https://pegasusac.net/changelog) | We push updates whenever new FiveM cheats or bypasses start spreading |
+
+### FiveM cheats it stops
+
+What each menu does to a server and how PegasusAC catches it: [Eulen](https://pegasusac.net/cheats/eulen) · [RedEngine](https://pegasusac.net/cheats/redengine) · [Susano](https://pegasusac.net/cheats/susano) · [Hydro Menu](https://pegasusac.net/cheats/hydro-menu) · [Absolute Menu](https://pegasusac.net/cheats/absolute-menu) · [all cheats](https://pegasusac.net/cheats)
 
 ## FiveM Web Admin Panel — [panel.pegasusac.net](https://pegasusac.net/panel)
 
@@ -73,10 +77,10 @@ PegasusAC is now running on **500+ FiveM servers worldwide**. It's not magic, bu
 
 **General**
 
-- Works out of the box with **ESX, QBCore, VRP, and custom frameworks**. No extra setup needed.
+- Works out of the box with **ESX, QBCore, QBox, VRP, and custom frameworks**. No extra setup needed.
 - Designed to run with minimal performance impact. Your server won't notice it's there.
 - Every detection threshold is configurable so you can tune it to your server's specific needs.
-- Fully CFX compliant. We don't do anything that violates platform rules or player privacy.
+- [Fully CFX compliant](https://pegasusac.net/fivem-anticheat-cfx-compliance). We don't do anything that violates platform rules or player privacy.
 - Your license is **permanent through the CFX asset system**. Not a subscription, not tied to our uptime — and it covers up to 3 simultaneous servers.
 
 <br/>
@@ -86,6 +90,7 @@ PegasusAC is now running on **500+ FiveM servers worldwide**. It's not magic, bu
 No purchase needed — free tools for every FiveM server owner:
 
 - 🔍 **[FiveM Profiler Analyzer](https://pegasusac.net/free-tools/profiler-analyzer)** — upload a profile, find exactly what's causing your server hitches and lag
+- 🧾 **[FiveM server.cfg Checker](https://pegasusac.net/free-tools/server-cfg-checker)** — paste your server.cfg, get the mistakes and missing settings back
 - 📦 **[FiveM Server Artifacts](https://pegasusac.net/free-tools/artifacts)** — always-current server builds for Windows & Linux, with recommended markers
 - 🚗 **[FiveM Model Browser](https://pegasusac.net/models)** — every vehicle, ped, object and weapon with spawn names, hashes and preview images
 
@@ -96,7 +101,7 @@ No purchase needed — free tools for every FiveM server owner:
 1. Go to [pegasusac.net/products](https://pegasusac.net/products) and grab a license
 2. Join our [Discord](https://discord.gg/pegasusac) and head to the **#claim-pegasus** channel to claim your resource
 3. Drop the `PegasusAC` folder into your server's resources directory
-4. Read through the [docs](https://pegasusac.net/docs) before you start — it takes about 30 minutes and it matters. Misconfigured settings are the main reason people see false positives
+4. Read through the [docs](https://pegasusac.net/docs) before you start (sign in with the Discord account that holds your Customer role) — it takes about 30 minutes and it matters. Misconfigured settings are the main reason people see false positives
 5. Add `ensure PegasusAC` to your `server.cfg` and you're good to go
 
 <br/>
@@ -114,7 +119,7 @@ Take the time to configure it properly before you open your server. A default co
 
 ## Documentation & Support
 
-Everything you need is at [pegasusac.net/docs](https://pegasusac.net/docs) — installation, configuration, framework setup, and troubleshooting. Common questions are answered in the [FiveM Anti-Cheat FAQ](https://pegasusac.net/faq).
+Customers will find installation, configuration, framework setup, and troubleshooting at [pegasusac.net/docs](https://pegasusac.net/docs). Common questions are answered in the [FiveM Anti-Cheat FAQ](https://pegasusac.net/faq), common server errors and their fixes in [FiveM server errors](https://pegasusac.net/errors), and short how-tos in [videos](https://pegasusac.net/videos).
 
 You can also reach us at [pegasusac.net/support](https://pegasusac.net/support) or jump into our [Discord](https://discord.gg/pegasusac) for direct help.
 
@@ -177,7 +182,7 @@ You can also reach us at [pegasusac.net/support](https://pegasusac.net/support) 
 <details>
 <summary><b>Is PegasusAC the best FiveM anticheat?</b></summary>
 <br/>
-We think the feature set speaks for itself: AI screenshot detection, event protection, a false-positive shield, and a full web admin panel with live map and voice monitoring — at a price most alternatives multiply. 500+ servers run it in production. See the honest breakdown at <a href="https://pegasusac.net/compare">pegasusac.net/compare</a>.
+We think the feature set speaks for itself: AI screenshot detection, event protection, a false-positive shield, and a full web admin panel with live map and voice monitoring — at a price most alternatives multiply. 500+ servers run it in production. See <a href="https://pegasusac.net/best-fivem-anticheat">the best FiveM anticheat in 2026</a> and the honest breakdown at <a href="https://pegasusac.net/compare">pegasusac.net/compare</a>.
 </details>
 
 <details>
@@ -193,7 +198,7 @@ No. Performance was a priority from the start. The detection runs in the backgro
 </details>
 
 <details>
-<summary><b>Does it work with ESX / QBCore / VRP?</b></summary>
+<summary><b>Does it work with ESX / QBCore / QBox / VRP?</b></summary>
 <br/>
 Yes, all of them. PegasusAC doesn't depend on any specific framework so it works with whatever you're running, custom setups included.
 </details>
@@ -207,7 +212,7 @@ No, and anyone who tells you their anti-cheat fully stops spoofing is lying. Wha
 <details>
 <summary><b>Is there a good free FiveM anticheat?</b></summary>
 <br/>
-Free anticheats exist but are usually signature-based and easy to bypass — every cheater can download and reverse them too. We do offer genuinely <a href="https://pegasusac.net/free-tools">free FiveM server tools</a> (profiler analyzer, artifacts finder, model browser) so you can start improving your server before buying anything.
+Free anticheats exist but are usually signature-based and easy to bypass — every cheater can download and reverse them too. We do offer genuinely <a href="https://pegasusac.net/free-tools">free FiveM server tools</a> (profiler analyzer, server.cfg checker, artifacts finder, model browser) so you can start improving your server before buying anything.
 </details>
 
 <details>
@@ -238,7 +243,7 @@ No. Making it open source would let anyone find the detection methods and build 
 
 ## Links
 
-[Website](https://pegasusac.net) &nbsp;&nbsp; [Anticheat Comparison](https://pegasusac.net/compare) &nbsp;&nbsp; [Admin Panel](https://pegasusac.net/panel) &nbsp;&nbsp; [Documentation](https://pegasusac.net/docs) &nbsp;&nbsp; [FAQ](https://pegasusac.net/faq) &nbsp;&nbsp; [Free Tools](https://pegasusac.net/free-tools) &nbsp;&nbsp; [Purchase](https://pegasusac.net/products) &nbsp;&nbsp; [Discord](https://discord.gg/pegasusac) &nbsp;&nbsp; [YouTube](https://www.youtube.com/channel/UCb8_VgKaeNMn7ww1nihNkdA) &nbsp;&nbsp; [TikTok](https://www.tiktok.com/@pegasus.anticheat) &nbsp;&nbsp; [Changelog](https://pegasusac.net/changelog)
+[Website](https://pegasusac.net) &nbsp;&nbsp; [Best FiveM Anticheat 2026](https://pegasusac.net/best-fivem-anticheat) &nbsp;&nbsp; [Anticheat Comparison](https://pegasusac.net/compare) &nbsp;&nbsp; [FiveM Cheats](https://pegasusac.net/cheats) &nbsp;&nbsp; [Admin Panel](https://pegasusac.net/panel) &nbsp;&nbsp; [Documentation](https://pegasusac.net/docs) &nbsp;&nbsp; [FAQ](https://pegasusac.net/faq) &nbsp;&nbsp; [Server Errors](https://pegasusac.net/errors) &nbsp;&nbsp; [Free Tools](https://pegasusac.net/free-tools) &nbsp;&nbsp; [Videos](https://pegasusac.net/videos) &nbsp;&nbsp; [Purchase](https://pegasusac.net/products) &nbsp;&nbsp; [Discord](https://discord.gg/pegasusac) &nbsp;&nbsp; [YouTube](https://www.youtube.com/channel/UCb8_VgKaeNMn7ww1nihNkdA) &nbsp;&nbsp; [TikTok](https://www.tiktok.com/@pegasus.anticheat) &nbsp;&nbsp; [Changelog](https://pegasusac.net/changelog)
 
 <br/>
 
